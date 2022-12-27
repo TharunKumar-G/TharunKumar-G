@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TharunKumar-G
+-You can call me ... Tharak
 - 
 - 👀 I’m interested in Hacking,finding bugs and sending patches
 - 
